@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'hsproj3webapp'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_560d832571f74bc8bddaaa802bb6d0dd }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d33fa2947a9e448caa44f4942c76b42d }}
